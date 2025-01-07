@@ -3,4 +3,6 @@ This is a repository about c++ skill training progressed during the winter vacat
 --------------
 
 
-Name: Geunwoo Kim  Department: Smart Mobility Engineering
+Name: Geunwoo Kim  
+
+Department: Smart Mobility Engineering
