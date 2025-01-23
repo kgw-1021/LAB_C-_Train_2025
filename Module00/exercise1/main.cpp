@@ -8,6 +8,7 @@ public:
   string str;
   string cmd;
   string cmd_opt;
+  
   void convert2upper(const string &input);
   void convert2lower(const string &input);
 };
